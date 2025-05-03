@@ -3,7 +3,8 @@
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
-		"mac": "2.2074"
+		"mac": "2.2074",
+		"iOS": "2.2074"
 	},
 	"version": "v1.2.0",
 	"id": "weebify.coins_in_pause_menu",
